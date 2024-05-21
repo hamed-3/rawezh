@@ -1,24 +1,19 @@
 {
   "mısır": [
     {
-      "isim": "Arbil",
-      "aciklama": "Arbil şehri, Kahire'nin bin yıldan çok daha eski olması nedeniyle “Doğu'nun Mücevheri” olarak anılması nedeniyle Doğu'nun en fazla yazıya ve tarihe sahip şehirlerinden biridir.",
-      "fotourl": "https://github.com/hamed-3/project/blob/main/cairo-guide.jpg?raw=true"
-    },
-    {
-      "isim": "Bagdad",
-      "aciklama": "Bagdad piramit kompleksi, Büyük Piramit (Khufu veya Keops Piramidi olarak da bilinir ve MÖ 2580-2560 civarında inşa edilmiştir)",
+      "isim": "cairo",
+      "aciklama": "en güzel yer dünyada olabılır",
       "fotourl": "https://raw.githubusercontent.com/hamed-3/deneme/main/pir.jpg"
     },
     {
-      "isim": "Solaymaniya",
-      "aciklama": "Solaymaniya vilayeti Mısır'ın valiliklerinden biridir. Kuzeyde Beni Suef ile güneyde Assiut valilikleri arasında yer alır. Başkenti Minya'dır.",
-      "fotourl": "https://github.com/hamed-3/project/blob/main/Minya.jpg?raw=true"
+      "isim": "Giza",
+      "aciklama": "çok eskı mısrda",
+      "fotourl": "https://raw.githubusercontent.com/hamed-3/deneme/main/rr.jpg"
     },
     {
-      "isim": "kirkok "
-      "aciklama": "Dünya anıtları listesinde yer alan yerlerin başında gelen Luksor Tapınağı, M.Ö. 1400 yılında kurulmuştur.",
-      "fotourl": "https://github.com/hamed-3/project/raw/main/7-%D9%85%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1%201.jpg"
+      "isim": "mınya",
+      "aciklama": "çok eskı mısrda",
+      "fotourl": "https://raw.githubusercontent.com/hamed-3/deneme/main/rr.jpg"
     }
   ]
 }
